@@ -1,4 +1,4 @@
-# 🇯🇵 JapanTreeNotes
+# JapanTreeNotes
 
 Сборник заметок о поездке с братками в Японию.
 
